@@ -20,8 +20,6 @@ public class PersonService {
 
     private final PersonRepository personRepository;
 
-    //private final PersonMapper personMapper = PersonMapper.INSTANCE;
-
     private final PersonMapper personMapper;
 
 
